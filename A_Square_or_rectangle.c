@@ -14,6 +14,5 @@ int main()
         else
             printf("Rectangle\n");
     }
-
     return 0;
 }
